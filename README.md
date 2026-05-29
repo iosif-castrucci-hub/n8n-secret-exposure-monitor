@@ -6,6 +6,10 @@ This project detects possible exposed secrets such as API keys, tokens, password
 
 ---
 
+![n8n Workflow Overview](trueFlow.png)
+![n8n Workflow Overview](falseFlow.png)
+![n8n Workflow Overview](DB_google.png)
+
 ## Project Overview
 
 The goal of this project is to create a lightweight secret exposure monitoring workflow.
